@@ -67,7 +67,7 @@ NSLinguisticTagger
  class), and GameplayKit for evaluating learned decision trees. Core ML itself builds on top of low-level primitives like Accelerate and BNNS, as well as Metal Performance Shaders.
  
  <br>
-<img height="700" src="https://github.com/mukeshlokare/ImagesFiles/blob/master/COREML1.png"/>
+<img height="150" src="https://github.com/mukeshlokare/ImagesFiles/blob/master/COREML1.png"/>
 <br>
  
 
